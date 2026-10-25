@@ -277,3 +277,5 @@ Under the Open-World Assumption, absence of knowledge does not mean knowledge of
 2. **Quantifier Semantics:** The universal restriction $\forall R.C$ operates conditionally and is vacuously true for individuals with zero successors, whereas $\exists R.C$ mandates the existence of at least one valid successor.
 3. **Satisfiability vs. Consistency:** An ontology can contain unsatisfiable concepts ($C \sqsubseteq \bot$) and remain consistent as long as those concepts have no instances in the ABox. Asserting an instance of an unsatisfiable concept destroys all models and renders the entire knowledge base inconsistent.
 4. **Open-World & UNA:** DL systems refrain from assuming that missing information is false (OWA) or that different names denote different objects (no UNA), making them uniquely suitable for open, distributed, and evolving web knowledge.
+abhi jo kuch kr rha hun wo sirf rl hy 
+
